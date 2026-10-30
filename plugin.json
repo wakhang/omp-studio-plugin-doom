@@ -1,0 +1,11 @@
+{
+  "id": "doom",
+  "name": "DOOM",
+  "version": "0.1.0",
+  "description": "대화창에서 DOOM(1993 셰어웨어)을 플레이합니다. \"둠 하자\"라고 하면 답변 안에 게임이 뜨고, 입력창 👹 버튼으로 바로 열 수도 있습니다. 엔진: jacobenget/doom.wasm (GPL-2.0).",
+  "author": "wakhang",
+  "tags": ["game", "doom", "fun"],
+  "usage": "대화창에 \"둠 하자\" 또는 입력창 👹 버튼 → ▶ DOOM 시작 → 게임 클릭 후 방향키·Ctrl·Space",
+  "main": "main.js",
+  "renderer": "renderer.js"
+}

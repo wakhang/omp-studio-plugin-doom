@@ -1,0 +1,2 @@
+doom.wasm: https://github.com/jacobenget/doom.wasm v0.1.0, GPL-2.0 (source available at that URL).
+Includes the DOOM shareware WAD (id Software), freely redistributable in unmodified form.
